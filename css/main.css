@@ -1,0 +1,53 @@
+header{
+  background: #2c3e50;
+  position: static;
+
+
+}
+ul {
+    list-style-type:none;
+    margin: 0;
+    height: 10vh;
+    font-family: 'Lato', sans-serif;
+    font-size: 3.5vh;
+}
+li {
+
+    float: left;
+    background:
+}
+
+a {
+    display: inline-block;
+    padding: 50%;
+
+    background-color: #2c3e50;
+
+
+    }
+
+    li a.active {
+        background-color: #2c3e50;
+        font-size: 2vh;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background: #2c3e50;
+}
+.bigSquareOne{
+  position: static;
+  width: 100%;
+  height: 20vh;
+  background: blue;
+
+}
